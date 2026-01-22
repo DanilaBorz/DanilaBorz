@@ -13,8 +13,7 @@
 - **Backend:** Microservices, gRPC, Kafka, PostgreSQL, Rate Limiting
 - **Systems:** OOP, Finite State Machines (FSM), Data Structures, POSIX
 - **Tools:** Docker, Makefile, CI/CD (GitHub Actions), GTest/Check (Unit Testing)
-- **Hardware:** PCB Design (KiCad), Electronics Engineering
-
+  
 ---
 
 ### 🚀 Избранные проекты
