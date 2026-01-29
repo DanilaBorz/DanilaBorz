@@ -111,8 +111,4 @@
 
 - **Telegram:** [@areomair](https://t.me/areomair)
 - **GitHub:** [DanilaBorz](https://github.com/DanilaBorz)
-- **Email:** [напишите в Telegram для контакта]
 
----
-
-*"От низкоуровневых деталей до высокоуровневых архитектур — понимаю как работает система целиком"*
